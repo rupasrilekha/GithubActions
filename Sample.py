@@ -1,4 +1,4 @@
 def SayHello():
   print("Hello people")
 
-SayHello(Rupa)
+SayHello()
