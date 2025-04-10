@@ -1,4 +1,3 @@
---- start
 def SayHello():
   print("Hello people")
 
